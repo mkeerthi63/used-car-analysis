@@ -22,4 +22,4 @@ To clean a messy used car dataset and compute a baseline MAE model.
 - Evaluated using Mean Absolute Error (MAE)
 
 ## Result
-Baseline MAE: <your_output_here>
+Baseline MAE: 199121.63700000002
